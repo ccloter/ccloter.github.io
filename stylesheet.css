@@ -1,0 +1,15 @@
+h1{ text-align: center;} 
+h2{text-align: center;}
+.container{text-align: center;}
+
+.row-main > .column{padding: 0px 55px;
+height: 1500px;
+padding: 115px;}
+.column{height: 1500px;
+padding: 115px;}
+
+.navbar-brand{text-align: left;
+    font-weight: 700;
+    position: relative;
+    z-index: 1030;
+}
